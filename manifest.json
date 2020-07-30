@@ -1,0 +1,13 @@
+{
+	"files": {
+		"index.js": "426d7a367677d3c2ab963e5da73c0dd6e8619ce557b6b71c5c82a6b13c5af02b",
+		"module.json": "47ed19a212672d01800b854638d047bb1d62c266ebd4e5255dedf7f5d4056ff0"
+	},
+	"defs": {
+		"C_RETURN_TO_LOBBY": 1,
+		"C_SELECT_USER": 1,
+		"S_GET_USER_LIST": 18,
+		"S_PREPARE_RETURN_TO_LOBBY": 1,
+		"S_RETURN_TO_LOBBY": 1
+	}
+}
